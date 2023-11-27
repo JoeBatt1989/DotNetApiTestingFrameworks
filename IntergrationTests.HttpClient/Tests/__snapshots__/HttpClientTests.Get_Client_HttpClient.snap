@@ -1,0 +1,35 @@
+﻿[
+  {
+    "id": "95fff557-dc35-447d-bfd4-34d15e191bbd",
+    "title": "Mr",
+    "firstName": "Tim",
+    "lastName": "Smith",
+    "email": "Tim.Smith66@mailinator.com",
+    "contactDetails": {
+      "phoneType": "Home",
+      "phoneNumber": "01132687542"
+    }
+  },
+  {
+    "id": "f82a6929-cd9c-42e0-aef1-4bbd260b54cd",
+    "title": "Mr",
+    "firstName": "James",
+    "lastName": "Lee",
+    "email": "James7612@mailinator.com",
+    "contactDetails": {
+      "phoneType": "Mobile",
+      "phoneNumber": "07959437865"
+    }
+  },
+  {
+    "id": "661ca7f8-988c-44e7-9f6b-09d0edc24c25",
+    "title": "Dr",
+    "firstName": "James",
+    "lastName": "Lee",
+    "email": "James7612@mailinator.com",
+    "contactDetails": {
+      "phoneType": "Home",
+      "phoneNumber": "01132986677"
+    }
+  }
+]
